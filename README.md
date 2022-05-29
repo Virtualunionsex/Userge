@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/UsergeTeam/Userge">
+    <a href="https://github.com/virtualunionsex/Userge">
         <img src="https://telegra.ph/file/f3aed2f6f2d4a1ad7831d.png" alt="Userge">
     </a>
     <br>
