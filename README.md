@@ -9,7 +9,7 @@
     &nbsp•&nbsp
     <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#deployment-">Deployment</a>
+    <a href="https://github.com/virtualunionsex/Userge#deployment-">Deployment</a>
     &nbsp•&nbsp
     <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
     &nbsp•&nbsp
